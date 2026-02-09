@@ -5,6 +5,4 @@
 - CSS
 
 ## Live Demo 🌐
-<a href="https://abdallahthyab1.github.io/laslesvpn-landing-page/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20Site-Click%20Here-brightgreen">
-</a>
+[![🚀 Visit Live Site](https://img.shields.io/badge/Visit%20Site-Live%20Demo-blue?style=for-the-badge&logo=firefox)](https://abdallahthyab1.github.io/laslesvpn-landing-page/)
