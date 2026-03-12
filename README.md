@@ -22,8 +22,6 @@ A fully responsive landing page for LaslesVPN, a virtual private network service
 > 🌐 **[View Live Site](https://abdallahthyab1.github.io/laslesvpn-landing-page/)**  
 > *Fully responsive - works perfectly on all devices*
 
-![LaslesVPN Screenshot](./screenshot.png)
-<!-- Add a screenshot of the landing page here -->
 
 ---
 
